@@ -13,10 +13,9 @@ This is a comprehensive banking system project developed to simulate core functi
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend**: [Technology/Framework, e.g., React.js, HTML, CSS]
-- **Backend**: [Language/Framework, e.g., Python, Flask, Node.js]
-- **Database**: [e.g., MySQL, MongoDB]
-- **Other Tools**: [e.g., Git, Docker, etc.]
+- **Backend**: [LanguageC++]
+- **Database**: [e.g., File System]
+- **Other Tools**: [e.g., Git]
 
 ---
 
